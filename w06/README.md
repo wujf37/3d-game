@@ -3,7 +3,7 @@
 博客链接：http://t.csdnimg.cn/o3VBx
 游戏视频与1.0的一样
 
-视频链接：[https://www.bilibili.com/video/BV1op4y1a7pd/](https://v.youku.com/v_show/id_XNjEwNDYyNTg4OA==.html)
+视频链接：https://v.youku.com/v_show/id_XNjEwNDYyNTg4OA==.html
 
 介绍
 
