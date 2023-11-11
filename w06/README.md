@@ -1,11 +1,8 @@
-博客链接：http://t.csdnimg.cn/o3VBx 游戏视频与1.0的一样
+博客链接：(https://blog.csdn.net/m0_56138124/article/details/133994159?spm=1001.2014.3001.5502) 游戏视频与1.0的一样
 
-<<<<<<< Updated upstream
-博客链接：http://t.csdnimg.cn/o3VBx
-游戏视频与1.0的一样
 
-=======
->>>>>>> Stashed changes
+
+
 视频链接：https://v.youku.com/v_show/id_XNjEwNDYyNTg4OA==.html
 
 介绍
